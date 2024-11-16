@@ -28,7 +28,7 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
  
 
 ## Program:
-```
+```python
 /*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
 Developed by: SANJUSHRI A
